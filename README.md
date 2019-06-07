@@ -1,2 +1,4 @@
 # Psychic-Game
-It's gonna be mind-blowing
+
+I have decided to go select the psychic game...
+It's gonna be mind-blowing!
