@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(17, 81, 141)
+}
+.jumbotron {
+    position:relative;
+    top: 100px;
+    background-color: rgb(153, 153, 252)
+}
+
+.h1 {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.p {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-weight: bolder;
+}
+
+.h2 {
+    font-family: 'Indie Flower', cursive;
+}
