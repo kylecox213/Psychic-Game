@@ -1,19 +1,23 @@
 body {
-    background-color: rgb(17, 81, 141)
+    background-color: rgb(128, 12, 12);
+    background-image: url("assets/images/Room_of_fate.png");
 }
+
 .jumbotron {
-    position:relative;
+    position: relative;
     top: 100px;
-    background-color: rgb(153, 153, 252)
+    background-color: rgb(155, 96, 68)
 }
 
 .h1 {
     font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
 }
 
 .p {
     font-family: 'Gloria Hallelujah', cursive;
     font-weight: bolder;
+    font-size: 30px;
 }
 
 .h2 {
